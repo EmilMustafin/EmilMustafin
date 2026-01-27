@@ -36,6 +36,7 @@ Fullstack developer focused on **scalable architectures** and **clean UI**.
 
 ### Frontend
 
+<div id="stack">
 <img src="./image/react-original.svg" width="40"/> 
 <img src="./image/Next.js.svg" width="40"/> 
 <img src="./image/nuxt.js.svg" width="40"/> 
@@ -45,9 +46,13 @@ Fullstack developer focused on **scalable architectures** and **clean UI**.
 <img src="./image/storybook-original.svg" width="40"/> 
 <img src="./image/redux-original.svg" width="40"/>
 <img src="./image/zustand.png" width="40"/>
+</div>
+
+---
 
 ### Backend
 
+<div id="stack">
 <img src="./image/Go.svg" width="40"/> 
 <img src="./image/nest.js.svg" width="40"/> 
 <img src="./image/nodejs-original.svg" width="40"/> 
@@ -55,13 +60,16 @@ Fullstack developer focused on **scalable architectures** and **clean UI**.
 <img src="./image/FastAPI.svg" width="40"/> 
 <img src="./image/postgresql-original.svg" width="40"/> 
 <img src="./image/mongodb-original-wordmark.svg" width="40"/>
+</div>
+---
 
 ### Tooling
-
+<div id="stack">
 <img src="./image/docker-original.svg" width="40"/> 
 <img src="./image/vitejs-original.svg" width="40"/> 
 <img src="./image/webpack-original.svg" width="40"/> 
 <img src="./image/git-original.svg" width="40"/> 
+</div>
 
 ---
 
