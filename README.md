@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Emil+Mustafin;Fullstack+Developer;Building+Scalable+Web+Apps;Always+Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Emil+Mustafin;Fullstack+Developer;" />
 </p>
 
 <p align="center">
@@ -18,17 +18,6 @@ Fullstack developer focused on **scalable architectures** and **clean UI**.
 - 🎨 **Frontend:** React, Vue, shadcn/ui  
 - 🧩 Architecture: Feature-Sliced Design (FSD), Modular UI, Microfrontends  
 - 🏗 Experience with monorepos, complex dashboards and production systems 
-
----
-
-## 🏗 Architecture
-
-- Feature-Sliced Design  
-- Clean Architecture  
-- SOLID  
-- Microfrontends (Module Federation)  
-- Turborepo / Nx  
-- Modular UI Systems  
 
 ---
 
