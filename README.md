@@ -23,28 +23,39 @@ Fullstack developer focused on **scalable architectures** and **clean UI**.
 
 ## 🛠 Core Stack
 
-<div id="stack">
-<img src="./image/react-original.svg" width="40"/> 
-<img src="./image/Next.js.svg" width="40"/> 
-<img src="./image/nuxtjs.svg" width="40"/> 
-<img src="./image/Vue.js.svg" width="40"/> 
-<img src="./image/typescript-original.svg" width="40"/> 
-<img src="./image/tailwind_css.svg" width="40"/> 
-<img src="./image/storybook-original.svg" width="40"/> 
-<img src="./image/redux-original.svg" width="40"/>
-<img src="./image/zustand.png" width="90"/>
-<img src="./image/Go.svg" width="40"/> 
-<img src="./image/nest.js.svg" width="40"/> 
-<img src="./image/nodejs-original.svg" width="40"/> 
-<img src="./image/Python.svg" width="40"/> 
-<img src="./image/FastAPI.svg" width="40"/> 
-<img src="./image/postgresql-original.svg" width="40"/> 
-<img src="./image/mongodb-original-wordmark.svg" width="40"/>
-<img src="./image/docker-original.svg" width="40"/> 
-<img src="./image/vitejs-original.svg" width="40"/> 
-<img src="./image/webpack-original.svg" width="40"/> 
-<img src="./image/git-original.svg" width="40"/> 
-</div>
+## 🛠 Core Stack
+
+<p align="center">
+
+<a href="https://react.dev"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000"/></a>
+<a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff"/></a>
+<a href="https://nuxt.com"><img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=fff"/></a>
+<a href="https://vuejs.org"><img src="https://img.shields.io/badge/Vue-42B883?style=for-the-badge&logo=vue.js&logoColor=fff"/></a>
+
+<a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff"/></a>
+<a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff"/></a>
+<a href="https://storybook.js.org"><img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=fff"/></a>
+<a href="https://redux.js.org"><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=fff"/></a>
+<a href="https://zustand-demo.pmnd.rs"><img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge"/></a>
+
+<a href="https://go.dev"><img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=fff"/></a>
+<a href="https://nestjs.com"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=fff"/></a>
+<a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff"/></a>
+<a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/></a>
+<a href="https://fastapi.tiangolo.com"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=fff"/></a>
+
+<a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff"/></a>
+<a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff"/></a>
+<a href="https://redis.io"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=fff"/></a>
+<a href="https://kafka.apache.org"><img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=fff"/></a>
+
+<a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff"/></a>
+<a href="https://vitejs.dev"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E"/></a>
+<a href="https://webpack.js.org"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=000"/></a>
+<a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff"/></a>
+
+</p>
+
 
 ## 📬 Contact
 
