@@ -8,8 +8,8 @@
   <a href="https://t.me/DehDerp">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="mailto:emill.mustafin@yandex.ru">
-    <img src="https://img.shields.io/badge/Email-emill.mustafin%40yandex.ru-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+ <a href="mailto:emill.mustafin@yandex.ru">
+    <img src="https://img.shields.io/badge/emill.mustafin@yandex.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://vk.com/emildrakon">
     <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
