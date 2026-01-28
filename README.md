@@ -1,7 +1,9 @@
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Emil+Mustafin;Fullstack+Developer+%7C+4%2B+Years" alt="Typing SVG" />
 </p>
-
+<p height="50%">
+	<img width="100%" height="400px"  src="https://github.com/EmilMustafin/EmilMustafin/blob/main/welcome.gif" alt="Welcome GIF" style="display: block;" />
+</p>
 <p align="center">
   <a href="https://t.me/DehDerp"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
  <a href="mailto:emill.mustafin@yandex.ru">
@@ -17,9 +19,7 @@
 
 Fullstack-разработчик с фокусом на **качественную архитектуру** и **масштабируемые решения**. Создаю проекты, которые приятно поддерживать и развивать.
 
-<table>
-<tr>
-<td width="50%">
+
 
 ```typescript
 const emil = {
@@ -29,14 +29,7 @@ const emil = {
 };
 ```
 
-</td>
-<td width="50%">
 
-<img width="100%" src="https://github.com/EmilMustafin/EmilMustafin/blob/main/welcome.gif" alt="Welcome GIF" style="display: block;" />
-
-</td>
-</tr>
-</table>
 
 
 
