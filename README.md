@@ -1,23 +1,50 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Emil+Mustafin;Fullstack+Developer;4%2B+years+of+coding+experience;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Emil+Mustafin;Fullstack+Developer+%7C+4%2B+Years" alt="Typing SVG" />
 </p>
 
-<hr />
-
-<p align="right">
-  <img width="420" src="https://github.com/EmilMustafin/EmilMustafin/blob/main/welcome.gif" />
+<p align="center">
+  <a href="https://t.me/DehDerp"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+ <a href="mailto:emill.mustafin@yandex.ru">
+    <img src="https://img.shields.io/badge/emill.mustafin@yandex.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://vk.com/emildrakon"><img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/></a>
 </p>
 
-## 👋 About
+<br/>
 
-Fullstack-разработчик. Люблю **понятную архитектуру**, **чистый UI** и проекты, которые не стыдно поддерживать.
+<table>
+<tr>
+<td width="60%">
 
-- 🚀 **Backend (сильная сторона):** Go, NestJS — API, сервисы, архитектура
-- 🎨 **Frontend:** React / Vue, shadcn/ui
-- 🧩 **Подход:** FSD, Modular UI, microfrontends
-- 🏗 **Опыт:** monorepo, дашборды, продакшн-системы
+## 🚀 About Me
 
----
+Fullstack-разработчик с фокусом на **качественную архитектуру** и **масштабируемые решения**. Создаю проекты, которые приятно поддерживать и развивать.
+
+```typescript
+const emil = {
+	code: ['TypeScript', 'Go', 'Python', 'C#'],
+	focus: 'Backend + Frontend Architecture',
+	experience: '4+ years in production',
+	approach: ['Clean Code', 'SOLID', 'FSD', 'Microservices'],
+	loves: ['Performance optimization', 'Developer Experience', 'Beautiful UI'],
+};
+```
+
+### 💪 Core Strengths
+
+- **🔧 Backend Engineering:** Go (Golang), NestJS — проектирование API, микросервисная архитектура, высоконагруженные системы
+- **🎨 Frontend Development:** React, Vue, Next.js, Nuxt — современные SPA/SSR приложения с акцентом на UX
+- **🏗 Architecture:** Monorepo, Microfrontends, Feature-Sliced Design, модульные системы
+- **📊 Production Experience:** Дашборды, административные панели, B2B/B2C платформы
+
+</td>
+<td width="40%">
+  <img src="https://github.com/EmilMustafin/EmilMustafin/blob/main/welcome.gif" alt="Welcome GIF" width="100%"/>
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## 🛠 Stack
 
@@ -32,7 +59,6 @@ Fullstack-разработчик. Люблю **понятную архитект
 <a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff"/></a>
 <a href="https://storybook.js.org"><img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=fff"/></a>
 <a href="https://redux.js.org"><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=fff"/></a>
-<a href="https://zustand-demo.pmnd.rs"><img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=zustand&logoColor=fff"/></a>
 
 <a href="https://ui.shadcn.com"><img src="https://img.shields.io/badge/shadcn/ui-000?style=for-the-badge&logo=shadcnui&logoColor=fff"/></a>
 <a href="https://ant.design"><img src="https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=fff"/></a>
@@ -41,8 +67,6 @@ Fullstack-разработчик. Люблю **понятную архитект
 <a href="https://mui.com"><img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=fff"/></a>
 
 <a href="https://go.dev"><img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=fff"/></a>
-<a href="https://dotnet.microsoft.com"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff"/></a>
-
 <a href="https://nestjs.com"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=fff"/></a>
 <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff"/></a>
 <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/></a>
@@ -68,8 +92,8 @@ Fullstack-разработчик. Люблю **понятную архитект
 </a>
 
 <a href="mailto:emill.mustafin@yandex.ru">
-  <img src="https://img.shields.io/badge/Email-1e1e1e?style=for-the-badge&logo=gmail"/>
-</a>
+    <img src="https://img.shields.io/badge/emill.mustafin@yandex.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 
 <a href="https://vk.com/emildrakon">
   <img src="https://img.shields.io/badge/VK-1e1e1e?style=for-the-badge&logo=vk"/>
