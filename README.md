@@ -14,7 +14,7 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="55%">
 
 ## 🚀 About Me
 
@@ -22,13 +22,22 @@ Fullstack-разработчик с фокусом на **качественну
 
 ```typescript
 const emil = {
-	code: ['TypeScript', 'Go', 'Python', 'C#'],
-	focus: 'Backend + Frontend Architecture',
-	experience: '4+ years in production',
-	approach: ['Clean Code', 'SOLID', 'FSD', 'Microservices'],
-	loves: ['Performance optimization', 'Developer Experience', 'Beautiful UI'],
+  code: ["TypeScript", "Go", "Python", "C#"],
+  focus: "Backend + Frontend Architecture",
+  experience: "4+ years in production",
+  approach: ["Clean Code", "SOLID", "FSD", "Microservices"],
+  loves: ["Performance optimization", "Developer Experience", "Beautiful UI"]
 };
 ```
+</td>
+<td width="45%">
+
+<p align="right">
+  <img width="420" src="https://github.com/EmilMustafin/EmilMustafin/blob/main/welcome.gif" alt="Welcome GIF" />
+</p>
+</td>
+</tr>
+</table>
 
 ### 💪 Core Strengths
 
@@ -36,20 +45,11 @@ const emil = {
 - **🎨 Frontend Development:** React, Vue, Next.js, Nuxt — современные SPA/SSR приложения с акцентом на UX
 - **🏗 Architecture:** Monorepo, Microfrontends, Feature-Sliced Design, модульные системы
 - **📊 Production Experience:** Дашборды, административные панели, B2B/B2C платформы
-
-</td>
-<td width="40%">
-  <img src="https://github.com/EmilMustafin/EmilMustafin/blob/main/welcome.gif" alt="Welcome GIF" width="100%"/>
-</td>
-</tr>
-</table>
-
 <br/>
 
 ## 🛠 Stack
-
 <p align="center">
-
+	
 <a href="https://react.dev"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000"/></a>
 <a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff"/></a>
 <a href="https://nuxt.com"><img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=fff"/></a>
@@ -81,21 +81,4 @@ const emil = {
 <a href="https://vitejs.dev"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E"/></a>
 <a href="https://webpack.js.org"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=000"/></a>
 <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff"/></a>
-
-</p>
-
-## 📬 Contact
-
-<p>
-<a href="https://t.me/DehDerp">
-  <img src="https://img.shields.io/badge/Telegram-1e1e1e?style=for-the-badge&logo=telegram"/>
-</a>
-
-<a href="mailto:emill.mustafin@yandex.ru">
-    <img src="https://img.shields.io/badge/emill.mustafin@yandex.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-
-<a href="https://vk.com/emildrakon">
-  <img src="https://img.shields.io/badge/VK-1e1e1e?style=for-the-badge&logo=vk"/>
-</a>
 </p>
