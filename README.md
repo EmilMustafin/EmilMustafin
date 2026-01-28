@@ -12,34 +12,37 @@
 
 <br/>
 
-<table>
-<tr>
-<td width="55%">
 
-## 🚀 About Me
+## 🚀 Обо мне
 
 Fullstack-разработчик с фокусом на **качественную архитектуру** и **масштабируемые решения**. Создаю проекты, которые приятно поддерживать и развивать.
+
+<table>
+<tr>
+<td width="50%">
 
 ```typescript
 const emil = {
   code: ["TypeScript", "Go", "Python", "C#"],
   focus: "Backend + Frontend Architecture",
-  experience: "4+ years in production",
-  approach: ["Clean Code", "SOLID", "FSD", "Microservices"],
-  loves: ["Performance optimization", "Developer Experience", "Beautiful UI"]
+  experience: "4+ years in production"
 };
 ```
-</td>
-<td width="45%">
 
-<p align="right">
-  <img width="420" src="https://github.com/EmilMustafin/EmilMustafin/blob/main/welcome.gif" alt="Welcome GIF" />
-</p>
+</td>
+<td width="50%">
+
+<img width="100%" src="https://github.com/EmilMustafin/EmilMustafin/blob/main/welcome.gif" alt="Welcome GIF" style="display: block;" />
+
 </td>
 </tr>
 </table>
 
-### 💪 Core Strengths
+
+
+
+
+### 💪 Ключевые компетенции
 
 - **🔧 Backend Engineering:** Go (Golang), NestJS — проектирование API, микросервисная архитектура, высоконагруженные системы
 - **🎨 Frontend Development:** React, Vue, Next.js, Nuxt — современные SPA/SSR приложения с акцентом на UX
@@ -47,7 +50,7 @@ const emil = {
 - **📊 Production Experience:** Дашборды, административные панели, B2B/B2C платформы
 <br/>
 
-## 🛠 Stack
+## 🛠 Технологический стек
 <p align="center">
 	
 <a href="https://react.dev"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000"/></a>
